@@ -6,6 +6,7 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
+## Step 5: Trigger the workflow ❤️❤️
 ## Finish
 
 _Congratulations friend, you've completed this course!_
